@@ -1,0 +1,67 @@
+body
+div id="espnfitt"
+div id="DataWrapper"
+div id="fitt-analytics"
+div class="theme-light"
+div class="bp-mobileMDPlus bp-mobileLGPlus bp-tabletPlus bp-desktopPlus bp-desktopLGPlus" data-fitt-page-type="gamepackage"
+main id="fittPageContainer" Yes   
+div class="pageContent"     Yes
+div class=""
+div class="Gamestrip__ContentOffset"
+div class=""
+div class="PageLayout page-container cf PageLayout--desktopLg PageLayout--363"
+div class = "PageLayout__LeftAside"
+div class = "PageLayout__Main"
+section class "liAe zpZVw qVkLt pYgZk FyPVu ynwu ZIAaz Feejh VZTD rEPuv NRVkd rTqqE cbeTh ConaX rgQax EKVem WOJBZ GNMxA yqAXb IZtgn QCELl"
+div class = "TQK "
+div class = "Kiog nyqUw YXOwE QxrJO mHzDO IZsba"
+div class = "mLASH VZTD jIRH gVtMp LrmZT klTtn QNwmF lZur bmjsw"
+div
+div class = "FTMw FuEs FqDnR "
+
+
+document.querySelector("#fittPageContainer >
+ div.pageContent > 
+ div:nth-child(3) > 
+ div > 
+ div.Gamestrip__ContentOffset > 
+ div:nth-child(3) > 
+ div > 
+ div > 
+ section.liAe.zpZVw.qVkLt.pYgZk.FyPVu.ynwu.ZIAaz.Feejh.VZTD.rEPuv.NRVkd.rTqqE.cbeTh.ConaX.rgQax.EKVem.WOJBZ.GNMxA.yqAXb.IZtgn.QCELl > 
+ div > 
+ div > 
+ div:nth-child(8) > 
+ div:nth-child(2) > 
+ div.FTMw.FuEs.FqDnR")
+
+
+document.querySelector("#fittPageContainer >
+ div.pageContent > 
+ div:nth-child(3) > 
+ div > 
+ div.Gamestrip__ContentOffset > 
+ div:nth-child(3) > 
+ div > 
+ div > 
+ section.liAe.zpZVw.qVkLt.pYgZk.FyPVu.ynwu.ZIAaz.Feejh.VZTD.rEPuv.NRVkd.rTqqE.cbeTh.ConaX.rgQax.EKVem.WOJBZ.GNMxA.yqAXb.IZtgn.QCELl > 
+ div > 
+ div > 
+ div:nth-child(8) > 
+ div > 
+ div.FTMw.FuEs.FqDnR")
+
+ document.querySelector("#fittPageContainer > 
+ div.pageContent > 
+ div:nth-child(3) > 
+ div > 
+ div.Gamestrip__ContentOffset > 
+ div:nth-child(3) > 
+ div > 
+ div > 
+ section.liAe.zpZVw.qVkLt.pYgZk.FyPVu.ynwu.ZIAaz.Feejh.VZTD.rEPuv.NRVkd.rTqqE.cbeTh.ConaX.rgQax.EKVem.WOJBZ.GNMxA.yqAXb.IZtgn.QCELl > 
+ div > 
+ div > 
+ div:nth-child(8) > 
+ div:nth-child(2) > 
+ div.FTMw.FuEs.FqDnR")
